@@ -1,5 +1,5 @@
 ### Cheat-sheet 
-
+<hr />
 #### Upload project
 1. new repository
 2. git init
